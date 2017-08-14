@@ -1,26 +1,24 @@
-# A Byte of Python
+# Python baytlari
 
-"A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.
+"Python baytlari" bu Python tilidan dasturlashda foydalanish buyicha bepul kitob. Kitob boshlovchilarga Python tili uchun darslik yoki qo'llanma bo'lib hizmat qiladi. Agar siz komyuterda matnli fayllarni qanday qilib saqlash haqida bilsanggiz bu kitob aynan siz uchun.
 
-## For Python version 3
+## Python 3.x versiasi uchun
+Ushbu kitob sizga Python 3.x versiasidan foydalanishni o'rgatadi. Bundan tashqari, siz ushbu kitobda eski va keng tarqalgan Python 2.x versiyasiga moslashtirish buyicha yo'l-yo'riq olasiz.
 
-This book will teach you to use Python version 3. There will also be guidance for you to adapt to the older and more common Python version 2 in the book.
+## "A Byte of Python"ni kimlar o'qiydi? {#who-reads-bop}
 
-## Who reads A Byte of Python? {#who-reads-bop}
-
-Here are what people are saying about the book:
-
-> This is the best beginner's tutorial I've ever seen! Thank you for your effort.
-> -- [Walt Michalik](mailto:wmich50@theramp.net)
+Ushbu kitob haqida odamlar nima diyapti:
+> Bu kitob boshlovchilar uchun men ko'rgan kitoblar ichida eng zo'ri! Harakatlaringgiz uchun sizlarga rahmat.
+> --[Walt Michalik](mailto:wmich50@theramp.net)
 
 <!-- -->
 
-> The best thing i found was "A Byte of Python", which is simply a brilliant book for a beginner. It's well written, the concepts are well explained with self evident examples.
+> "A Byte of Python"dan topgan eng zo'r ta'surotim, boshlovchilar uchun sodda javohir kitob. Kitob juda yaxshi yozilgan, barcha tushunchalar aniq misollar bilan yoritilgan.
 > -- [Joshua Robin](mailto:joshrob@poczta.onet.pl)
 
 <!-- -->
 
-> Excellent gentle introduction to programming #Python for beginners
+> Boshlovchilar uchun #Python dasturlashga eng muloyim kirish.
 > -- [Shan Rajasekaran](https://twitter.com/ShanRajasekaran/status/268910645842423809)
 
 <!-- -->
