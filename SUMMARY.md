@@ -1,5 +1,6 @@
-# Mundarija
+# Summary
 
+* [Kirish](README.md)
 * [Bag'ishlov](dedication.md)
 * [Bosh sahifa](preface.md)
 * [Python haqida](about_python.md)
@@ -24,3 +25,4 @@
 * [Qo'shimcha: Tarjimalar](translations.md)
 * [Qo'shimcha: Qanday qilib tarjima qilish](translation_howto.md)
 * [Fikr-mulohaza](feedback.md)
+
