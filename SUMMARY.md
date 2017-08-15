@@ -24,5 +24,5 @@
 * [Qo'shimcha: O'zgarishlar tarixi](revision_history.md)
 * [Qo'shimcha: Tarjimalar](translations.md)
 * [Qo'shimcha: Qanday qilib tarjima qilish](translation_howto.md)
-* [Fikr-mulohaza](feedback.md),
+* [Fikr-mulohaza](feedback.md)
 
