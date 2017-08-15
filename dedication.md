@@ -1,7 +1,7 @@
-# Dedication
+# Bag'ishlov
 
-To [Kalyan Varma](http://www.kalyanvarma.net/) and many other seniors at [PESIT](http://www.pes.edu/) who introduced us to GNU/Linux and the world of open source.
+[Kalyan Varma](http://www.kalyanvarma.net/) va [PESIT](http://www.pes.edu/)ning ko'plab boshqa azolari, bizni GNU/Linux va ochiq manbalar dunyosiga olib kirganlarga
 
-To the memory of [Atul Chitnis](http://www.nextbigwhat.com/atul-chitnis-obituary-297/), a friend and guide who shall be missed greatly.
+[Atul Chitnis](http://www.nextbigwhat.com/atul-chitnis-obituary-297/) xotirasiga , do'st va yo'lboshchini juda sog'inganlarga.
 
-To the [pioneers who made the Internet happen](http://www.ibiblio.org/pioneers/index.html). This book was first written in 2003. It still remains popular, thanks to the nature of sharing knowledge on the Internet as envisioned by the pioneers.
+[Internetni kashf etgan kashfiyotchilarga](http://www.ibiblio.org/pioneers/index.html). Ushbu kitob 2003 yilda birinchi marta yozildi. Yangi kashfiyotchilarning fikriga ko'ra, Internet bilim almashish tabiati bilan mashhur.
