@@ -272,6 +272,7 @@ Quyidagi turdagi yuklab olish uchun {{book.downloadUrl}} ga tashrif buyuring:
 - [Mobi (Kindle uchun)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
 
 Xom tarkib uchun {{book.sourceUrl}} ga tashrif buyuring (tuzatish, o'zgartirish, tarjima qilish va h.k.)
-## Read the book in your native language
+
+## Ushbu kitobni o'z ona tilingda o'qi
 
 Agar siz ushbu kitobning boshqa inson tillariga tarjimasini o'qish yoki tarjima qilishga qiziqsangiz, marhamat [Tarjimalar](./translations.md#tarjimalar).
