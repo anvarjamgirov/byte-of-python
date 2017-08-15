@@ -1,23 +1,23 @@
-# Preface
+# Bosh sahifa
 
-Python is probably one of the few programming languages which is both simple and powerful. This is good for beginners as well as for experts, and more importantly, is fun to program with. This book aims to help you learn this wonderful language and show how to get things done quickly and painlessly - in effect 'The Anti-venom to your programming problems'.
+Python, ehtimol oddiy va kuchli bo'lgan bir necha dasturlash tillaridan biri bo'lishi mumkin. Bu yangi boshlanuvchilar uchun ham, mutaxassislar uchun ham foydali, va bundan ham muhimi, dastur bilan qiziqarli. Ushbu kitob sizga bu ajoyib tilni o'rganishga va ishlarni tez va og'riqsiz tarzda bajarishga qanday yordam berishni o'z ichiga oladi - aslida "Dasturlash muammolariga qarshi dori".
 
-## Who This Book Is For
+## Bu kitob kimlar uchun
 
-This book serves as a guide or tutorial to the Python programming language. It is mainly targeted at newbies. It is useful for experienced programmers as well.
+Ushbu kitob Python dasturlash tiliga oid qo'llanma yoki darslik bo'lib xizmat qiladi. Bu asosan yangilarga mo'ljallangan. Tajribali dasturchilar uchun ham foydali.
 
-The aim is that if all you know about computers is how to save text files, then you can learn Python from this book. If you have previous programming experience, then you can also learn Python from this book.
+Maqsad, agar siz kompyuterlar haqida bilsangiz, matnli fayllarni qanday saqlash kerakligini bilsangiz, Pythonni ushbu kitobdan o'rganishingiz mumkin. Agar oldingi dasturlash tajribangiz bo'lsa, siz Pythonni ushbu kitobdan o'rganishingiz mumkin.
 
-If you do have previous programming experience, you will be interested in the differences between Python and your favorite programming language - I have highlighted many such differences. A little warning though, Python is soon going to become your favorite programming language!
+Agar oldingi dasturiy tajribangiz bo'lsa, siz Python va sevimli dasturlash tilining o'rtasidagi farqlar bilan qiziqasiz - bu kabi ko'plab farqlarni ta'kidladim. Biroz ogohlantirish bo'lsa-da, yaqinda Python sizning sevimli dasturiy tilingizga aylanadi!
 
-## Official Website
+## Rasmiy veb-sayt
 
-The official website of the book is {{ book.officialUrl }} where you can read the whole book online, download the latest versions of the book, [buy a printed hard copy]({{ book.buyBookUrl }}) and also send me feedback.
+Kitobning rasmiy veb-sayti: {{book.officialUrl}}. Bu yerda siz butun kitobni onlayn tarzda o'qiy olishingiz, kitobning eng so'nggi versiyasini yuklab olishingiz, [bosma nusxa sotib olishingiz]({{book.buyBookUrl}}}) va shuningdek, Men bilan aloqaga chiqishinggiz mumkin.
 
-## Something To Think About
+## Haqida o'ylash kerak bo'lgan bazi narsalar
 
-> There are two ways of constructing a software design: one way is to make it so simple that there are obviously no deficiencies; the other is to make it so complicated that there are no obvious deficiencies. -- C. A. R. Hoare
+> Dasturiy ta'minotni ishlab chiqishning ikkita usuli bor: buning bir usuli shundaki, u erda hech qanday nuqsonlar mavjud emas. Ikkinchisi shunchalik murakkabki, aniq kamchiliklar mavjud emas. - C. A R. Hoare
 
 <!-- -->
 
-> Success in life is a matter not so much of talent and opportunity as of concentration and perseverance. -- C. W. Wendte
+> Hayotda muvaffaqiyatga erishish - bu aniqlik va qat'iyatlilik kabi juda ko'p iste'dod va imkoniyatlardan iborat emas. - C.Vendt
