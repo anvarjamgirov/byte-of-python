@@ -255,6 +255,7 @@ Esda tuting:
 - Agar ushbu nusxalar ushbu kitobning asl nusxasida emas * deb ta'rifda aniq va ravshan qayd etilmagan bo'lsa, iltimos, kitobning elektron yoki bosma nusxalarini * sotmang *.
 - Mualliflik tavsifi va hujjatning oldingi sahifasida {{book.officialUrl}} ga bog'langan va original matnni ushbu joydan olish mumkinligini aniq ko'rsatib beruvchi attribut *ko'rsatilishi kerak*.
 -Ushbu kitobda keltirilgan barcha kodlar / skriptlar litsenziyalangan[3-clause BSD License](http://www.opensource.org/licenses/bsd-license.php) Aks belgilanmagan.
+
 ## Hoziroq o'qish
 
 Siz uni onlayn o'qishingiz mumkin {{ book.officialUrl }}
