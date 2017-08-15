@@ -1,6 +1,6 @@
 # Python baytlari
 
-"Python baytlari" bu Python tilidan dasturlashda foydalanish buyicha bepul kitob. Kitob boshlovchilarga Python tili uchun darslik yoki qo'llanma bo'lib hizmat qiladi. Agar siz komyuterda matnli fayllarni qanday qilib saqlash haqida bilsanggiz bu kitob aynan siz uchun.
+"A Byte of Python" bu Python tilidan dasturlashda foydalanish buyicha bepul kitob. Kitob boshlovchilarga Python tili uchun darslik yoki qo'llanma bo'lib hizmat qiladi. Agar siz komyuterda matnli fayllarni qanday qilib saqlash haqida bilsanggiz bu kitob aynan siz uchun.
 
 ## Python 3.x versiasi uchun
 Ushbu kitob sizga Python 3.x versiasidan foydalanishni o'rgatadi. Bundan tashqari, siz ushbu kitobda eski va keng tarqalgan Python 2.x versiyasiga moslashtirish buyicha yo'l-yo'riq olasiz.
@@ -23,259 +23,255 @@ Ushbu kitob haqida odamlar nima diyapti:
 
 <!-- -->
 
-> Best newbie guide to python
+> Boshlovchilar uchun Pythonga eng yaxshi qo'llanma.
 > -- [Nickson Kaigi](https://twitter.com/nickaigi/status/175508815729541120)
 
 <!-- -->
 
-> start to love python with every single page read
+> Har bir sahifani o'qib Pthonni sevishni boshlang.
 > -- [Herbert Feutl](https://twitter.com/HerbertFeutl/status/11901471389913088)
 
 <!-- -->
 
-> perfect beginners guide for python, will give u key to unlock magical world of python
+> Python boshlovchilar uchun mukammal qo'llanma, siz pythonning sehrli olamini ochish uchun kalit olasiz.
 > -- [Dilip](https://twitter.com/Dili_mathilakam/status/220033783066411008)
 
 <!-- -->
 
-> I should be doing my actual "work" but just found "A Byte of Python". A great guide with great examples.
+> Haqiqiy "ishim" ni bajarishim kerak, lekin "Python bayt" ni topdim. Buyuk misollar bilan ajoyib qo'llanma.
 > -- [Biologist John](https://twitter.com/BiologistJohn/statuses/194726001803132928)
 
 <!-- -->
 
-> Recently started reading a Byte of python. Awesome work. And that too for free. Highly recommended for aspiring pythonistas.
+> Yaqinda piton baytlarini o'qishni boshladilar. Ajoyib ish. Bu ham bepul. Tajribali pitonistlar uchun juda tavsiya etiladi.
 > -- [Mangesh](https://twitter.com/mangeshnanoti/status/225680668867321857)
 
 <!-- -->
 
-> A Byte of Python, written by Swaroop. (this is the book I'm currently reading). Probably the best to start with, and probably the best in the world for every newbie or even a more experienced user.
+> Python bayt, Swaroop tomonidan yozilgan. (Bu men o'qiyotgan kitobdir). Ehtimol, boshlash uchun eng yaxshi narsa, va ehtimol dunyodagi eng yangi va hatto tajribali foydalanuvchi uchun eng yaxshisi.
 > -- [Apostolos](http://apas.gr/2010/04/27/learning-python/)
 
 <!-- -->
 
-> Enjoying Reading #ByteOfPython by @swaroopch best book ever
+> @swaroopch ning eng zo'r kitobi #ByteOfPython ni miriqib uqiyapman.
 > -- [Yuvraj Sharma](https://twitter.com/YuvrajPoudyal/status/448050415356346368)
 
 <!-- -->
 
-> Thank you so much for writing A Byte Of Python. I just started learning how to code two days ago and I'm already building some simple games. Your guide has been a dream and I just wanted to let you know how valuable it has been.
+> Python baytini yozish uchun sizga katta rahmat. Men ikki kun oldin qanday kodlashni o'rganishni boshladim va men oddiy o'yinlar qurmoqdaman. Sizning yo'riqnomangiz bir tush edi va men sizni qanchalik qimmatli ekanini bilmoqchi edim.
 > -- Franklin
 
 <!-- -->
 
-> I'm from Dayanandasagar College of Engineering (7th sem, CSE). Firstly i want to say that your book "The byte of python" is too good a book for a beginner in python like me.The concepts are so well explained with simple examples that helped me to easily learn python. Thank you so much.
+> Men Dayanandasagar muhandislik kollejidan edim (7-sem, CSE). Birinchidan, "Python baytlari" kitobingiz men kabi pythonda yangi boshlanuvchilar uchun juda yaxshi kitob deb aytishni istayman. Kontseptsiyalar pitonni osongina o'rganishimga yordam bergan sodda misollar bilan tushuntirilgan. Sizga katta rahmat.
 > -- Madhura
 
 <!-- -->
 
-> I am a 18 year old IT student studying at University in Ireland. I would like to express my gratitude to you for writing your book "A Byte of Python", I already had knowledge of 3 programming langagues - C, Java and Javascript, and Python was by far the easiest langague I have ever learned, and that was mainly because your book was fantastic and made learning python very simple and interesting. It is one of the best written and easy to follow programming books I have ever read. Congratulations and keep up the great work.
+> Men Irlandiya universitetida tahsil olayotgan 18 yoshli IT talabasiman. Sizning "Python bayt" kitobini yozishingiz uchun sizga minnatdorchiligimni bildirmoqchiman, men 3 ta dasturiy tillar - C, Java va Javascript haqida bilimga ega bo'ldim va Python men hozirgacha o'rgangan eng oddiy mashxur edi. Asosan, sizning kitobingiz ajoyib va pythonni juda oddiy va qiziqarli qilganligi sababli edi. Bu men o'qigan eng yaxshi dasturiy ta'minot va kitoblardan biri. Tabriklaymiz va buyuk ishni davom ettiramiz.
 > -- Matt
 
 <!-- -->
 
-> Hi, I'm from Dominican Republic. My name is Pavel, recently I read your book _A Byte of Python_ and I consider it excellent!!  :). I learnt much from all the examples. Your book is of great help for newbies like me...
+> Salom, men Dominik Respublikasidan. Mening ismim Pavel, yaqinda "Python bayt" kitobini o'qib chiqdim va men buni juda yaxshi deb hisoblayman! :). Men barcha misollardan juda ko'p narsani o'rgandim. Sizning kitobingiz menga o'xshash yangiliklar uchun ajoyib yordam ...
 > -- [Pavel Simo](mailto:pavel.simo@gmail.com)
 
 <!-- -->
 
-> I am a student from China, Now ,I have read you book A byte of Python, Oh it's beautiful. The book is very simple but can help all the first learnners. You know I am interesting in Java and cloud computing many times, i have to coding programm for the server, so i think python is a good choice, finish your book, i think its not only a good choice its must use the Python. My English is not very well, the email to you, i just wanna thank you! Best Wishes for you and your family.
+> Men Xitoylik talabasiman, Endi, Python byte'ini o'qib chiqdim, Oh, bu juda chiroyli. Kitob juda oddiy, ammo barcha birinchi o'quvchilarga yordam berishi mumkin. Java va bulutli kompyuterlarda ko'p marta qiziqaman, server uchun kodlashni talab qilaman, shuning uchun python yaxshi tanlov deb o'ylayman, kitobingizni tugatishim kerak, deb o'ylayman, faqat uning yaxshi tanlovi Pythondan foydalanishi kerak. Mening ingliz tilim juda yaxshi emas, sizga elektron pochta, faqat rahmat aytaman! Siz va oilangiz uchun eng yaxshi tilaklar.
 > -- Roy Lau
 
 <!-- -->
 
-> I recently finished reading Byte of Python, and I thought I really ought to thank you. I was very sad to reach the final pages as I now have to go back to dull, tedious oreilly or etc.  manuals for learning about python. Anyway, I really appreciate your book.
+> Yaqinda Python baytını o'qib tugatdim va men sizga, albatta, rahmat qilish kerak deb o'yladim. Men piton haqida o'rganish uchun zerikarli, zerikarli oreilly va hokazo qo'llanmalariga qaytib borishga majbur bo'lgandek, yakuniy sahifalarga o'tish juda xafa edim. Baribir, sizning kitobingizni juda qadrlayman.
 > [Samuel Young](mailto:sy137@gmail.com)
 
 <!-- -->
 
-> Dear Swaroop, I am taking a class from an instructor that has no interest in teaching. We are using Learning Python, second edition, by O'Reilly. It is not a text for beginner without any programming knowledge, and an instructor that should be working in another field.  Thank you very much for your book, without it I would be clueless about Python and programming. Thanks a million, you are able to _break the message down_ to a level that beginners can understand and not everyone can.
+> Hurmatli janob Swaroop, men o'qituvchidan dars berishga qiziqaman. O'Reilly tomonidan ikkinchi versiyada Python ni o'rganamiz. Bu boshlang'ich uchun biron bir dasturiy bilimsiz matn va boshqa sohada ishlaydigan o'qituvchi emas. Kitobingiz uchun sizga juda minnatdorman, u holda men Python va dasturlash haqida o'ylamasdim. Bir millionga rahmat, siz "xabarni pastga tushirish" ni yangi boshlanuvchilar tushunadigan darajaga, har kim ham qila olmaysiz.
 > -- [Joseph Duarte](mailto:jduarte1@cfl.rr.com)
 
 <!-- -->
 
-> I love your book! It is the greatest Python tutorial ever, and a very useful reference. Brilliant, a true masterpiece! Keep up the good work!
+> Men sening kitobingni yaxshi ko'raman! Bu eng katta Python tarbiyasi va juda foydali ma'lumot. Ajoyib, haqiqiy asar! Yaxshi ishlashda davom eting!
 > -- Chris-André Sommerseth
 
 <!-- -->
 
-> First of all, I want to say thanks to you for this greate book. I think it is a good book for those who are looking for a beginner's tutorial for Python.
-> It is about two or there years ago, I think, when I first heard of this book. At that time, I am not able to read some book in English yet, so I got a chinese translation, which took me into the gate of Python programming.
-> Recently, I reread this book. This time, of course, the english version. I couldn't believe that I can read the whole book without my dictionary at hand. Of course, it all dues to your effort to make this book an easy-to-understand one.
+> Avvalo, bu ajoyib kitob uchun sizga minnatdorchilik bildirmoqchiman. Men Python uchun yangi boshlang'ichning o'rganuvchisini izlayotganlar uchun yaxshi kitob deb o'ylayman.
+> Bu kitob haqida birinchi marta eshitganimda, taxminan ikki yil oldin, deb o'ylayman. O'sha paytda men hali ingliz tilida biror kitobni o'qiy olmadim, shuning uchun Python dasturlash darvozasi ichiga kirgan Xitoy tarjimasini oldim.
+> Yaqinda men ushbu kitobni qayta o'qiyapman. Bu safar, albatta, inglizcha versiyasi. Men butun kitobni lug'atimsiz qo'lda o'qishim mumkinligiga ishonolmadim. Albatta, bu kitobni oson tushunish uchun barcha ishingiz kerak.
 > -- [myd7349](https://github.com/swaroopch/byte_of_python/pull/13)
 
 <!-- -->
 
-> I'm just e-mailing you to thank you for writing Byte of Python online.  I had been attempting Python for a few months prior to stumbling across your book, and although I made limited success with pyGame, I never completed a program.
-> Thanks to your simplification of the categories, Python actually seems a reachable goal. It seems like I have finally learned the foundations and I can continue into my real goal, game development.
+> Python baytini onlaynda yozganingiz uchun rahmat. Pythonga kitobingiz qoqilib ketishidan bir necha oy oldin urinib ko'rganman va pyGame bilan cheklangan muvaffaqiyatga erishgan bo'lsam-da, men hech qachon dasturni yakunlamadim.
+> Kategoriyalarning soddalashtirilishi tufayli, Python haqiqatan ham erishish mumkin bo'lgan maqsadga aylangan. Nihoyat, vaqfni o'rgandim va men haqiqiy maqsadim - o'yinni rivojlantirishda davom ettirishim mumkin.
 > ...
-> Once again, thanks VERY much for placing such a structured and helpful guide to basic programming on the web.  It shoved me into and out of OOP with an understanding where two text books had failed.
+> Yana bir bor, bunday tuzilgan va foydali qo'llanmani vebdagi asosiy dasturlarga joylashtirish uchun juda ko'p rahmat. U ikkita darslik muvaffaqiyatsizlikka uchraganini tushunib, meni OOPdan olib chiqdi.
 > -- [Matt Gallivan](mailto:m_gallivan12@hotmail.com)
 
 <!-- -->
 
-> I would like to thank you for your book _A Byte of Python_ which i myself find the best way to learn python. I am a 15 year old i live in egypt my name is Ahmed. Python was my second programming language i learn visual basic 6 at school but didn't enjoy it, however i really enjoyed learning python. I made the addressbook program and i was sucessful. i will try to start make more programs and read python programs (if you could tell me source that would be helpful). I will also start on learning java and if you can tell me where to find a tutorial as good as yours for java that would help me a lot. Thanx.
+> Pythonni o'rganishning eng yaxshi usulini topib olgan "Python bayt" kitobingiz uchun sizga rahmat. Men 15 yoshdaman, Misrda yashayman, mening ismim Ahmaddir. Python mening ikkinchi dasturiy tilim edi, lekin men ingliz tilida 6 ta asosiy ingliz tilini o'rganib chiqdim, lekin uni yoqtirmadim, lekin men pitonni o'rganishni yoqtirardim. Men manzillar dasturini yaratdim va muvaffaqiyatli bo'ldim. Men ko'proq dasturlarni ishga tushirishni va python dasturlarini o'qishni boshlashga harakat qilaman (agar siz menga yordam beradigan manbani aytsangiz). Bundan tashqari, java o'rganishdan boshlayman va java uchun o'zingiz kabi yaxshi o'rganib qaerda topishim mumkinligini menga ayta olsangiz, menga juda yordam beradi. Rahmat.
 > -- [Ahmed Mohammed](mailto:sedo_91@hotmail.com)
 
 <!-- -->
 
-> A wonderful resource for beginners wanting to learn more about Python is the 110-page PDF tutorial A Byte of Python by Swaroop C H. It is well-written, easy to follow, and may be the best introduction to Python programming available.
+> Python haqida ko'proq bilmoqchi bo'lgan yangi boshlanuvchilar uchun juda yaxshi manba. 110 ta sahifali PDF-ilova. Pyro-ning Python byte'si. Swaroop C H. Bu yaxshi yozilgan, oson amal qilish va Python dasturiy ta'minotiga eng yaxshi kirish bo'lishi mumkin.
 > -- [Drew Ames](http://www.linux.com/feature/126522)
 
 <!-- -->
 
-> Yesterday I got through most of Byte of Python on my Nokia N800 and it's the easiest and most concise introduction to Python I have yet encountered. Highly recommended as a starting point for learning Python.
+> Kecha men Nokia N800 da Python baytining ko'p qismini oldim va Pythonga duch kelgan eng oson va eng qisqacha kirish. Pythonni o'rganish uchun boshlang'ich nuqtasi sifatida tavsiya etiladi.
 > -- [Jason Delport](http://paxmodept.com/telesto/blogitem.htm?id=627)
 
 <!-- -->
 
-> Byte of Vim and Python by @swaroopch is by far the best works in technical writing to me. Excellent reads #FeelGoodFactor
+> Vim va Python baytlari @swaroopch tomonidan menga texnik yozishning eng yaxshi asarlari. Zo'r o'qiydigan #FeelGoodFactor
 > -- [Surendran](http://twitter.com/suren/status/12840485454)
 
 <!-- -->
 
-> "Byte of python" best one by far man
-> (in response to the question "Can anyone suggest a good, inexpensive resource for learning the basics of Python? ")
+> "Python baytlari" barcha uchun eng yaxshi
+> ("Kimdir Python asoslarini o'rganish uchun yaxshi, arzon resursni taklif qila oladimi?" Degan savolga javoban)
 > -- [Justin LoveTrue](http://www.facebook.com/pythonlang/posts/406873916788)
 
 <!-- -->
 
-> The Book Byte of python was very helpful ..Thanks bigtime :)
+> Pythonning baytlari juda foydali bo'ldi ..
 > [Chinmay](https://twitter.com/a_chinmay/status/258822633741762560)
 
 <!-- -->
 
-> Always been a fan of A Byte of Python - made for both new and experienced programmers.
+> Har doim yangi va tajribali dasturchilar uchun tayyorlangan "Python baytlari" ning muxlisi bo'ldi.
 > -- [Patrick Harrington](http://stackoverflow.com/a/457785/4869)
 
 <!-- -->
 
-> I started learning python few days ago from your book..thanks for such a nice book. it is so well written, you made my life easy..so you found a new fan of yours..thats me :) tons of thanks.
+> Men bir necha kun avval sizning kitobingizdan python o'rganishni boshladim. Bu juda yaxshi yozilgan, hayotimni osonlashtirding ... siz o'zingizning yangi muxlisini topdingiz ... bu menga rahmat :) minnatdorchilik.
 > -- [Gadadhari Bheem](https://twitter.com/Pagal_e_azam/statuses/242865885256232960)
 
 <!-- -->
 
-> Before I started to learn Python, I've acquired basic programming skills in Assembly, C, C++, C# and Java. The very reason I wanted to learn Python is it's popular (people are talking about it) and powerful (reality). This book written by Mr. Swaroop is a very good guide for both brand-new programmers and new python programmers. Took 10 half days to go through it. Great Help!
+> Men Pythonni o'rgana boshlaganimdan oldin, Assambleya, C, C ++, C # va Java dasturlashning asosiy qobiliyatlarini ishga tushirdim. Pythonni o'rganishni istaganimning sababi shundaki, bu mashhur (odamlar bu haqda gapiradi) va kuchli (haqiqat). Janob Swaroop tomonidan yozilgan ushbu kitob yangi dasturchilar va yangi python dasturchilari uchun juda yaxshi qo'llanma. Buning uchun 10 yarim kun davom etdi. Katta yordam!
 > -- [Fang Biyi (PhD Candidate ECE, Michigan State University)](mailto:fangbiyi@gmail.com)
 
 <!-- -->
-
-> Thank you ever so much for this book!!
-> This book cleared up many questions I had about certain aspects of Python such as object oriented programming.
-> I do not feel like an expert at OO but I know this book helped me on a first step or two.
-> I have now written several python programs that actually do real things for me as a system administrator. They are all procedural oriented but they are small by most peoples standards.
-> Again, thanks for this book. Thank you for having it on the web.
+> Ushbu kitob uchun juda ko'p rahmat!
+> Ushbu kitob Pythonning ma'lum jihatlari haqida ob'ektiv dasturlash kabi ko'plab savollarimni ochib berdi.
+> Men OO da ekspert kabi emasman, lekin bu kitob menga birinchi yoki ikki bosqichda yordam berganini bilaman.
+> Men hozir men uchun bir tizim ma'muri sifatida haqiqiy narsalarni qiladigan bir necha python dasturlarini yozdim. Ularning barchasi protsessual yo'naltirilgan, biroq ko'plab odamlar standartlari bo'yicha kichikdir.
+> Yana bu kitob uchun rahmat. Internetda buning uchun rahmat.
 > -- Bob
 
 <!-- -->
 
-> I just want to thank you for writing the first book on programming I've ever really read. Python is now my first language, and I can just imagine all the possibilities. So thank you for giving me the tools to create things I never would have imagined I could do before.
-> -- "The Walrus"
+> Faqat o'qiganim bo'yicha birinchi kitobni yozganingiz uchun tashakkur. Python endi mening birinchi tilim va barcha imkoniyatlarni tasavvur qila olaman. Menga ilgari nima qilishimni tasavvur qilmagan narsalarni yaratish uchun menga vositalar berib yuborganingiz uchun tashakkur.> -- "The Walrus"
 
 <!-- -->
 
-> I wanted to thank you for writing _A Byte Of Python_ (2 & 3 Versions).  It has been invaluable to my learning experience in Python & Programming in general.
-> Needless to say, I am a beginner in the programming world, a couple of months of self study up to this point. I had been using youtube tutorials & some other online tutorials including other free books. I decided to dig into your book yesterday, & I've learned more on the first few pages than any other book or tutorial. A few things I had been confused about, were cleared right up with a GREAT example & explanation. Can't wait to read (and learn) more!!
-> Thank you so much for not only writing the book, but for putting it under the creative commons license (free). Thank goodness there are unselfish people like you out there to help & teach the rest of us.
+> Byte Of Python_ (2 & 3 versiyalar) yozish uchun rahmat. Umuman, Python & Programming ta'lim tajribam uchun juda qadrlidir.
+> Aytishga hojat yo'q, men dasturlash dunyosida boshlang'ichman, ushbu nuqtaga qadar bir necha oylik o'z-o'zidan o'qish. Men youtube darsliklari va boshqa bepul kitoblar, shu jumladan, ba'zi bir onlayn darsliklardan foydalangan edim. Kecha sizning kitobingizga kirishga qaror qildim va birinchi bir necha sahifalarda har qanday boshqa kitob yoki o'quvchidan ko'ra ko'proq narsani o'rgandim. O'zimga aralashgan narsalarimning barchasi katta bir misol va tushuntirish bilan aniqlandi. Ko'proq o'qish va o'rganish uchun sabırsızlanıyorum!
+> Kitobni yozishni emas, balki ijodiy litsenziyalarga (bepul) joylashtirish uchun katta rahmat. Yaxshilikka shukr qilsangiz, qolganlar bizga yordam berish va ularni o'rgatish uchun sizda xuddi shunday samimiy odamlar bor.
 > -- Chris
 
 <!-- -->
 
-> I wrote you back in 2011 and I was just getting into Python and wanted to thank you for your tutorial "A Byte of Python".  Without it, I would have fallen by the wayside.  Since then I have gone on to program a number of functions in my organization with this language with yet more on the horizon.  I would not call myself an advanced programmer by any stretch but I notice the occasional request for assistance now from others since I started using it.  I discovered, while reading "Byte" why I had ceased studying C and C\++ and it was because the book given to me started out with an example containing an augmented assignment.  Of course, there was no explanation for this arrangement of operators and I fell on my head trying to make sense of what was on the written page.  As I recall it was a most frustrating exercise which I eventually abandoned. Doesn't mean C or C++ is impossible to learn, or even that I am stupid, but it does mean that the documentation I worked my way through did not define the symbols and words which is an essential part of any instruction. Just as computers will not be able to understand a computer word or computer symbol that is outside the syntax for the language being used, a student new to any field will not grasp his subject if he encounters words or symbols for which there are no definitions.  You get a "blue screen" as it were in either case.  The solution is simple, though: find the word or symbol and get the proper definition or symbol and lo and behold,the computer or student can proceed.  Your book was so well put together that I found very little in it I couldn't grasp.  So, thank you.  I encourage you to continue to include full definitions of terms.  The documentation with Python is good, once you know, (the examples are its strength from what I see) but in many cases it seems that you have to know in order to understand the documentation which to my mind is not what should be.  Third party tutorials express the need for clarification of the documentation and their success largely depends on the words that are used to describe the terminology.  I have recommended your book to many others. Some in Australia, some in the Caribbean and yet others in the US. It fills a niche no others do.  I hope you are doing well and wish you all the success in the future.
+> Men sizni 2011-yilda yozgan edim va Python-ga kirib, "Python bytes of your tutorial" uchun sizga rahmat aytishni istadim. Men bo'lmasam, men yo'lning narigi tomoniga tushib ketar edim. O'sha kundan buyon mening tashkilotimdagi ba'zi funktsiyalarni ushbu til bilan ufqda yana ko'proq dasturlash uchun kirdim. Men o'zimni biron bir cho'qqisida rivojlangan dasturchi deb hisoblamayman, lekin boshqalardan yordam so'rab murojaat qildim. Men "Byte" ni o'qiyotib, nima uchun C va C ++ o'qishni to'xtatib qo'yganim sababli, shuning uchun menga berilgan kitob kengaytirilgan topshiriqni o'z ichiga olgan misol bilan boshlangan edi. Albatta, bu operatorlar uchun hech qanday tushuntirish yo'q edi va men yozma sahifada nimani tushunish uchun boshimga tushib qoldim. Eslayotganimdek, bu oxir-oqibat boshdan kechiradigan eng mashaqqatli mashq edi. C yoki C ++ o'rganish mumkin emas yoki hatto ahmoq ekanligimni anglatmaydi degani emas, lekin bu orqali men ishlagan hujjatlarim biron bir ko'rsatmaning muhim qismi bo'lgan belgilar va so'zlarni aniqlamadi. Kompyuterlar ishlatiladigan til uchun sintaksisdan tashqarida bo'lgan kompyuter so'zini yoki kompyuter simvolini tushunolmagani singari, biron bir soha uchun yangi bo'lgan talaba ham ta'rifi bo'lmagan so'zlar yoki belgilar bilan duch kelganida mavzuni tushunmaydi. Ikkala holatda bo'lgani kabi, siz "ko'k ekran" olasiz. Ehtimollar sodda, ammo: so'z yoki belgini toping va to'g'ri ta'rifni yoki belgini oling va ko'raylik, kompyuter yoki talaba ishlashi mumkin. Sizning kitobingiz juda yaxshi bir joyga to'plandiki, unda juda kam narsa topdimki, tushuna olmadim. Shunday qilib, rahmat. Sizga ta'riflarning to'liq ta'riflarini kiritishni davom ettirishga da'vat etaman. Python bilan hujjat yaxshi, bir marta bilasiz (misollar, men ko'rgan narsadan kuchga ega), lekin ko'p hollarda, nima bo'lishidan qat'i nazar, mening fikrimga tegishli bo'lgan hujjatlarni tushunish uchun bilishingiz kerak. Uchinchi tomon o'quvchilari hujjatlarni aniqlashtirish zarurligini ifodalaydi va ularning muvaffaqiyati asosan terminni ta'riflash uchun ishlatiladigan so'zlarga bog'liq. Kitobingizni boshqalarga tavsiya qildim. Avstraliyada, ba'zilari esa Karib havzalarida, ba'zilari esa AQShda. Hech kim boshqalarni to'ldirmaydi. Umid qilamanki, siz yaxshi ishlayapsiz va kelajakda barcha muvaffaqiyatlarni tilayman.
 > -- Nick
 
 <!-- -->
 
-> hey, this is ankush(19). I was facing a great difficulty to start with python. I tried a lot of books but all were bulkier and not target oriented; and then i found this lovely one, which made me love python in no time. Thanks a lot for this "beautiful piece of book".
+> Xo'sh, bu ankush (19). Python bilan boshlash uchun katta qiyinchiliklarga duch keldim. Men juda ko'p kitoblarni sinab ko'rdim, ammo ularning barchasi noodatiy va maqsadli emas edi; Va keyin men hech qachon pythonni yaxshi ko'rgan bu go'zal birini topdim. Ushbu "chiroyli kitob" uchun juda ko'p rahmat..
 > -- Ankush
 
 <!-- -->
 
-> I would like to thank you for your excellent guide on Python. I am a molecular biologist (with little programming background) and for my work I need to handle big datasets of DNA sequences and to analyse microscope images. For both things, programming in python has been useful, if not essential to complete and publish a 6-years project.
-> That such a guide is freely available is a clear sign that the forces of evil are not yet ruling the world! :)
+> Python'dagi mukammal rahbarligingiz uchun rahmat. Men molekulyar biologman (kichik dasturlash fonida) va mening ishim uchun DNK sektsiyalarining katta ma'lumotlar to'plamlari bilan ishlov berish va mikroskopdagi tasvirlarni tahlil qilish kerak. Har ikkala narsa uchun, Pythonda dasturlash 6 yillik loyihani bajarish va nashr qilish uchun zarur bo'lmasa foydali bo'ldi.
+> Bunday yo'lboshchining erkin mavjudligi yovuz kuchlar hali dunyoga hukmronlik qilmaydigan aniq belgidir! :)
 > -- Luca
 
 <!-- -->
 
-> Since this is going to be the first language you learn, you should use A Byte of Python. It really gives a proper introduction into programming in Python and it is paced well enough for the average beginner. The most important thing from then on will be actually starting to practice making your own little programs.
+> Bu siz o'rganadigan birinchi til bo'lib qolishi uchun Python baytidan foydalaning. Albatta, Python dasturlash uchun to'g'ri kirishni ta'minlaydi va u o'rtacha boshlanuvchilar uchun etarlicha qulay. O'sha paytdan boshlab, eng muhimi, o'zingizning kichik dasturlarni ishlab chiqarishni boshlaysiz.
 > -- ["{Unregistered}"](http://www.overclock.net/t/1177951/want-to-learn-programming-where-do-i-start#post_15837176)
 
 <!-- -->
 
-> Just to say a loud and happy _thank you very much_ for publishing "A Byte of Python" and "A Byte of Vim". Those books were very useful to me four or five years ago when I starting learning programming. Right now I'm developing a project that was a dream for a long, long time and just want to say _thank you_. Keep walking. You are a source of motivation. All the best.
+> Faqat "Python baytlari" va "Vim baytlari" ni nashr qilish uchun siz juda katta va juda xursandman. O'quv dasturlarini boshlaganimda, bu kitoblar to'rt-besh yil oldin men uchun juda foydalidir. Men hozirda uzoq, uzoq vaqtdan beri orzu qilgan va faqat sizning fikringizni bildirmoqchi bo'lgan loyihani ishlab chiqyapman. Yurma qiling. Siz motivatsiya manbai emassiz. Barcha ezgu tilaklarni tilayman.
 > -- Jocimar
 
 <!-- -->
 
-> Finished reading A byte of Python in 3 days. It is thoroughly interesting. Not a single page was boring. I want to understand the Orca screen reader code. Your book has hopefully equipped me for it.
+> 3 kun ichida Python baytini o'qish tugadi. Bu juda qiziq. Hech bir sahifa zerikarli emas edi. Men Orca displeyli o'quvchi kodini tushunmoqchiman. Sizning kitobingiz, umid qilamanki, menga buning uchun yordam beradi.
 > -- Dattatray
 
 <!-- -->
 
-> Hi, 'A byte of python' is really a good reading for python beginners. So, again, NICE WORK!
-> i'm a 4 years experienced Java&C developer from China. Recently, i want to do some work on zim-wiki note project which uses pygtk to implement.
-> i read your book in 6 days, and i can read and write python code examples now.
-> thx for your contribution.
-> plz keep your enthusiasm to make this world better, this is just a little encourage from China.
+> Salom, "Python byte", aslida Python boshlanuvchilar uchun yaxshi o'qishdir. Shunday qilib, yana, NICE WORK!
+> Men Xitoydan 4 yil davomida tajribali Java & C ishlab chiquvchisiman. Yaqinda pygtk dasturini amalga oshirish uchun foydalanadigan zim-wiki qayd yozuvida ba'zi ishlarni bajarishni istayman.
+> Men 6 kun ichida kitobingizni o'qib chiqdim va endi python kodlari misollarini o'qib, yozaman.
+> Sizning hissangiz uchun raxmat.
+> Bu dunyoni yanada yaxshi qilish uchun sizning g'ayratingizni saqlab qoling, bu Xitoydan bir oz rag'bat.
 > -- Lee
 
 <!-- -->
 
-> I am Isen from Taiwan, who is a graduating PhD student in Electrical Engineering Department of National Taiwan University. I would like to thank you for your great book. I think it is not only just easy to read but also comprehensive and complete for a new comer of Python. The reason I read your book is that I am starting to work on the GNU Radio framework. Your book let me catch most of important core ideas and skill of Python with a minimum time.
-> I also saw that you do not mind that readers send you a thank note in your book. So I really like your book and appreciate it. Thanks.
+> Men Tayvanlikman, Tayvan, Tayvan Milliy Tayvan Universitetining elektr muhandisligi bo'limi bitiruvchisi. Katta kitobingiz uchun rahmat. Menimcha, Pythonning yangi paydo bo'lishi uchun nafaqat o'qish, balki keng qamrovli va to'la. Kitobingizni o'qiganim sababi, men GNU Radio ramkasida ishlashni boshlayman. Sizning kitobingiz Pythonning eng asosiy g'oyalari va qobiliyatlarini eng kam vaqt bilan qo'lga kiritishga ruxsat beraman.
+> O'quvchilar sizning kitobingizga rahmatnoma yubormasliklariga qarshi emasligini ko'rdim. Shuning uchun kitobingizni yoqtiraman va buni qadrlayman. Rahmat.
 > -- [Isen I-Chun Chao](mailto:chao926@gmail.com)
 
-The book is even used by NASA! It is used in their [Jet Propulsion Laboratory](https://web.archive.org/web/20130614003212/http://dsnra.jpl.nasa.gov/software/Python/byte-of-python/output/byteofpython_html/) with their Deep Space Network project.
+Ushbu kitob NASA da ham foydalaniladi! Ular [Jet Propulsion Laboratory](https://web.archive.org/web/20130614003212/http://dsnra.jpl.nasa.gov/software/Python/byte-of-python/output/byteofpython_html/) bilan Deep Space Network loihalarida ishlatishadi.
 
-## Academic Courses
+## Ilmiy kurslar
 
-This book is/was being used as instructional material in various educational institutions:
+Ushbu kitob turli ta'lim muassasalarida o'quv qo'llanmalari sifatida ishlatilgan:
 
-- 'Principles of Programming Languages' course at [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html)
-- 'Basic Concepts of Computing' course at [University of California, Davis](http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html)
-- 'Programming With Python' course at [Harvard University](http://www.people.fas.harvard.edu/~preshman/python_winter.html)
-- 'Introduction to Programming' course at [University of Leeds](http://www.comp.leeds.ac.uk/acom1900/)
-- 'Introduction to Application Programming' course at [Boston University](http://www.cs.bu.edu/courses/cs108/materials.html)
-- 'Information Technology Skills for Meteorology' course at [University of Oklahoma](http://gentry.metr.ou.edu/byteofpython/)
-- 'Geoprocessing' course at [Michigan State University](http://www.msu.edu/~ashton/classes/825/index.html)
-- 'Multi Agent Semantic Web Systems' course at the [University of Edinburgh](http://homepages.inf.ed.ac.uk/ewan/masws/)
-- 'Introduction to Computer Science and Programming' at [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
-- 'Basic programming at the Faculty of Social Sciences, University of Ljubljana, Slovenia' -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) says _"I (and my predecessor) have been using your book as the main literature for this course"_
--  'Introduction to programming', Department of Information Sciences, University of Zadar, Croatia -- Krešimir Zauder says _"I would like to inform you that A Byte of Python is a mandatory read at my course"_
+- 'Principles of Programming Languages' kursi [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html)da
+- 'Basic Concepts of Computing' kursi [University of California, Davis](http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html)da
+- 'Programming With Python' kursi [Harvard University](http://www.people.fas.harvard.edu/~preshman/python_winter.html)da
+- 'Introduction to Programming' kursi [University of Leeds](http://www.comp.leeds.ac.uk/acom1900/)da
+- 'Introduction to Application Programming' kursi [Boston University](http://www.cs.bu.edu/courses/cs108/materials.html)da
+- 'Information Technology Skills for Meteorology' kursi [University of Oklahoma](http://gentry.metr.ou.edu/byteofpython/)da
+- 'Geoprocessing' kursi [Michigan State University](http://www.msu.edu/~ashton/classes/825/index.html)da
+- 'Multi Agent Semantic Web Systems' kursi [University of Edinburgh](http://homepages.inf.ed.ac.uk/ewan/masws/)da
+- 'Introduction to Computer Science and Programming'  [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)da
+- 'Basic programming at the Faculty of Social Sciences, University of Ljubljana, Slovenia' -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) aytishgan _"Men (va mening hamkasblarim) sizning kitobingizni ushbu dars uchun asosiy adabiyot sifatida ishlatdik"_
+-  'Introduction to programming', Department of Information Sciences, University of Zadar, Croatia -- Krešimir Zauder aytishgan _"Python baytlari mening kursimda majburiy o'qilganligini xabar qilishni istardim"_
 
-## License
+## Ruxsatnoma
 
-This book is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Ushbu kitob [Creative Commons Attribution-ShareAlike 4.0 Xalqaro Litsenziyasi](http://creativecommons.org/licenses/by-sa/4.0/) ostida litsenziyalangan.
 
-This means:
+Buning ma'nosi:
 
-- You are free to Share i.e. to copy, distribute and transmit this book
-- You are free to Remix i.e. to make changes to this book (especially translations)
-- You are free to use it for commercial purposes
+- Siz ushbu kitobni nusxa olish, tarqatish va uzatish uchun bepul bo'lishingiz mumkin
+- Siz bu kitobga o'zgartirish kiritish uchun bepul (masalan, tarjimalar)
+- Siz uni tijorat maqsadlarida foydalanishingiz mumkin
 
-Please note:
+Esda tuting:
 
-- Please do *not* sell electronic or printed copies of the book unless you have clearly and prominently mentioned in the description that these copies are *not* from the original author of this book.
-- Attribution *must* be shown in the introductory description and front page of the document by linking back to {{ book.officialUrl }} and clearly indicating that the original text can be fetched from this location.
-- All the code/scripts provided in this book is licensed under the [3-clause BSD License](http://www.opensource.org/licenses/bsd-license.php) unless otherwise noted.
+- Agar ushbu nusxalar ushbu kitobning asl nusxasida emas * deb ta'rifda aniq va ravshan qayd etilmagan bo'lsa, iltimos, kitobning elektron yoki bosma nusxalarini * sotmang *.
+- Mualliflik tavsifi va hujjatning oldingi sahifasida {{book.officialUrl}} ga bog'langan va original matnni ushbu joydan olish mumkinligini aniq ko'rsatib beruvchi attribut *ko'rsatilishi kerak*.
+-Ushbu kitobda keltirilgan barcha kodlar / skriptlar litsenziyalangan[3-clause BSD License](http://www.opensource.org/licenses/bsd-license.php) Aks belgilanmagan.
+## Hoziroq o'qish
 
-## Read Now
+Siz uni onlayn o'qishingiz mumkin {{ book.officialUrl }}
 
-You can read it online at {{ book.officialUrl }}
+## Kitobni sotib oling
 
-## Buy The Book
+Kitobning bosma nusxasi sizning oflayn o'qish zevkiniz uchun {{book.buyBookUrl}} saytidan sotib olinishi mumkin va bu kitobning davomiy rivojlanishi va takomillashishini qo'llab-quvvatlash uchun.
 
-A printed hardcopy of the book can be purchased at {{ book.buyBookUrl }} for your offline reading pleasure, and to support the continued development and improvement of this book.
+## Yuklab olish
 
-## Download
+Quyidagi turdagi yuklab olish uchun {{book.downloadUrl}} ga tashrif buyuring:
 
-Visit {{ book.downloadUrl }} for the following types of downloads:
+- [PDF (ish stoli o'qish uchun)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
+- [EPUB (iPhone / iPad uchun, elektron kitob o'quvchi va hk)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
+- [Mobi (Kindle uchun)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
 
-- [PDF (for desktop reading, etc.)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
-- [EPUB (for iPhone/iPad, ebook readers, etc.)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
-- [Mobi (for Kindle)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
-
-Visit {{ book.sourceUrl }} for the raw content (for suggesting corrections, changes, translating, etc.)
-
+Xom tarkib uchun {{book.sourceUrl}} ga tashrif buyuring (tuzatish, o'zgartirish, tarjima qilish va h.k.)
 ## Read the book in your native language
 
-If you are interested in reading or contributing translations of this book to other human languages, please see [Translations](./translations.md#translations).
+Agar siz ushbu kitobning boshqa inson tillariga tarjimasini o'qish yoki tarjima qilishga qiziqsangiz, marhamat [Tarjimalar](./translations.md#tarjimalar).
